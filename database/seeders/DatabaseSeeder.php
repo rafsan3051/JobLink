@@ -68,10 +68,10 @@ class DatabaseSeeder extends Seeder
         $adminRole = Role::create(['name'=> 'admin']);
         $admin = User::create([
             'name'=> 'admin',
-            'email'=> 'nababurdev@gmail.com',
+            'email'=> 'fahadsagor1@gmail.com',
             'user_type'=> 'admin',
             'status'=> '1',
-            'password'=> bcrypt('nababurdev123'),
+            'password'=> bcrypt('fahadsagor123'),
             'email_verified_at'=> NOW()
         ]);
 
