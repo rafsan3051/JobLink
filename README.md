@@ -1,8 +1,8 @@
 # ![Laravel Logo](https://laravel.com/img/logomark.min.svg) Laravel
 
-## JobFinder - Job Portal Laravel Vue Script
+## JobLink - Job Portal Laravel Vue Script
 
-"JobFinder" is a job portal web application built using the Laravel PHP framework for the backend and the Vue.js JavaScript framework for the frontend. This open-source project is designed to help job seekers find suitable employment opportunities and employers post job listings efficiently. Below is some information you might include when creating a GitHub repository for the JobFinder project:
+"JobLink" is a job portal web application built using the Laravel PHP framework for the backend and the Vue.js JavaScript framework for the frontend. This open-source project is designed to help job seekers find suitable employment opportunities and employers post job listings efficiently. Below is some information you might include when creating a GitHub repository for the JobLink project:
 
 ---
 
